@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3ejjStL2kXkg8uvYZkFfLiGIu9j9594#scrollTo=9ZoeiD6g9Fuj)
 # 🧠 AI-Powered Mental Well-Being Chatbot
 
 An intelligent mental health support chatbot that combines Large Language Models (LLMs), Facial Emotion Recognition, Speech-to-Text technology, and Vector Search to provide personalized and empathetic mental well-being assistance.
