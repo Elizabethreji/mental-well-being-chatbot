@@ -97,13 +97,16 @@ The chatbot leverages advanced AI technologies to understand user emotions, main
 ## 📸 Screenshots
 
 ### Login Page
-<img src="screenshots/login.png" width="700">
+<img width="1919" height="931" alt="Screenshot 2025-03-24 213347" src="https://github.com/user-attachments/assets/6317b170-fd61-4ef1-99a1-01ed5e0e4c26" />
+
 
 ### Sign Up Page
-<img src="screenshots/signup.png" width="700">
+<img width="1919" height="924" alt="Screenshot 2025-03-24 213357" src="https://github.com/user-attachments/assets/8ea11316-d1a0-4696-ad35-20e8bd26d15e" />
+
 
 ### Mental Well-Being Chatbot
-<img src="screenshots/chatbot.png" width="700">
+<img width="1891" height="931" alt="Screenshot 2025-03-24 213513" src="https://github.com/user-attachments/assets/37b82a88-6e79-42c5-a120-ee91143a7685" />
+
 
 ## 👩‍💻 Authors
 
